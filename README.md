@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chaudharymanish120@gmail.com**
 
-- 📄 Know about my experiences [https://manishfolio01.netlify.app/MANISH_RESUME.pdf.pdf](https://manishfolio01.netlify.app/MANISH_RESUME.pdf.pdf)
+- 📄 Know about my experiences [https://manishfolio01.netlify.app/MANISH_RESUME.pdf.pdf](https://manishfolio01.netlify.app/MANISH_RESUME.pdf)
 
 - ⚡ Fun fact **I am Funny.**
 
