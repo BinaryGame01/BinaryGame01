@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manishfolio01.netlify.app](https://manishfolio01.netlify.app)
 
-- 💬 Ask me about **MERN , JAVA**
+- 💬 Ask me about **MERN , JAVA , MYSQL**
 
 - 📫 How to reach me **chaudharymanish120@gmail.com**
 
